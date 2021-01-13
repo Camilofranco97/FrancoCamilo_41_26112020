@@ -10,7 +10,7 @@ body {
 a,
 button {
     transition: all .3s ease-in-out;
-    outline: none!important;
+
 }
 
 a:hover {
@@ -460,10 +460,6 @@ nav .caret {
     background: rgba(0, 0, 0, .3);
 }
 
-button {
-    outline: none!important;
-}
-
 .btn-rd {
     border-radius: 40px;
 }
@@ -774,10 +770,6 @@ h4 {
     background-color: #F3976C;
 }
 
-.tc-white {
-    color: #F3976C!important;
-}
-
 .btn-atomic-tangerine {
     background: #F3976C;
     color: #FFFFFF!important;
@@ -822,7 +814,7 @@ h4 {
 }
 
 .bg-presentation {
-    background-image: url("img/image-de-presentation.bmp");
+    background-image: url("img/image-de-presentation.jpg");
 }
 
 @media (max-width: 1024px) {
