@@ -635,7 +635,7 @@ a[data-lightbox]:hover img {
     background: none;
 }
 .hncolor{
-    color: #ff7600 !important;
+    color: #fbfbfb !important;
 }
 
 h1,
@@ -912,6 +912,9 @@ h4 {
     .navbar.row {
         margin-left: 0;
         margin-right: 0;
+    }
+    .row-footer{
+        margin-top: 20px;
     }
     .site-navigation {
         position: inherit;
