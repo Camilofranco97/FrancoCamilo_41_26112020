@@ -700,7 +700,8 @@ p, q {
 
 .social {
     max-width: 400px;
-    margin: auto auto auto auto;
+    margin: auto;
+    margin-bottom: 20px;
 }
 
 h2 {
@@ -913,9 +914,7 @@ h4 {
         margin-left: 0;
         margin-right: 0;
     }
-    .row-footer{
-        margin-top: 20px !important;
-    }
+
     .site-navigation {
         position: inherit;
         transform: none;
